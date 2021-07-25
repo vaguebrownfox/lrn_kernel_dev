@@ -10,5 +10,6 @@
 - install qemu-system-x86_64
 
 - ### simple bootloader
-	- 
+	- writing a character
+	- writing a message
 
