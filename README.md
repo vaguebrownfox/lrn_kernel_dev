@@ -4,6 +4,11 @@
 
 - basic instrictions
 
+
 ## 0x01 Bootloader
 
-- simple bootloader
+- install qemu-system-x86_64
+
+- ### simple bootloader
+	- 
+
