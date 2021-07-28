@@ -32,4 +32,8 @@
     -   setup stack and stack pointer
 
 -   ### boot on actual hardware
+
     -   handle bios parameter block - working on pc!
+
+-   ### custom interrupts
+    -   write custom interrupts
