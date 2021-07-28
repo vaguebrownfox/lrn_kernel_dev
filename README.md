@@ -27,5 +27,9 @@
     -   writing a message
 
 -   ### improve bootloader
+
     -   setup segment registers: DS, ES
     -   setup stack and stack pointer
+
+-   ### boot on actual hardware
+    -   handle bios parameter block - working on pc!
