@@ -40,4 +40,12 @@
     -   handle bios parameter block - working on pc!
 
 -   ### custom interrupts
+
     -   write custom interrupts
+
+-   ### Makefile: automate the build process
+
+    -   create make file
+    -   handle assemble
+    -   write message after boot sector
+    -   fill zeros to create another sector in the virtual hard-disk (boot.bin)
