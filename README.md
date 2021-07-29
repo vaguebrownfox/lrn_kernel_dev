@@ -16,6 +16,10 @@
         ```
         > qemu-system-x86_64 -hda ./boot.bin
         ```
+    -   write to drive: choose the drive properly!!! dd is a powerful command
+        ```
+        > sudo dd if=./boot.bin of=/dev/sdc
+        ```
 
 ## 0x01 Bootloader
 
