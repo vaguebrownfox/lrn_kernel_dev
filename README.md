@@ -49,3 +49,6 @@
     -   handle assemble
     -   write message after boot sector
     -   fill zeros to create another sector in the virtual hard-disk (boot.bin)
+
+-   ### Reading form the hard-disk
+    -   using Int 13/AH=02h
